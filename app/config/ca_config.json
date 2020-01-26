@@ -1,0 +1,10 @@
+{
+	"ca_connection_url" : "http://172.21.112.163:7054",
+	"ca_admin_id"	: "admin",
+	"mspId"	: "Store1MSP",
+	"channel_name" : "mymarketchannel",
+	"orderer_url" : "grpc://172.21.113.123:17050",
+	"peer_url" : "grpc://172.21.112.163:7051",
+	"event_url" : "grpc://172.21.112.163:7053",
+	"chaincodeid" : "marketcc"
+}
